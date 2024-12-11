@@ -1,0 +1,105 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+.main
+{
+    
+    width: 100%;
+    height: 200px;
+    display: flex;
+}
+.main2
+{
+  
+    width: 100%;
+    height: 200px;
+    display: flex;
+}
+.one{
+    background-color: black;
+    width: 14.28%;
+   
+   
+}
+.two
+{
+    background-color: white;
+    width: 14.28%;
+   }
+.three
+    {
+        background-color: black;
+    width: 14.28%;
+   
+    }
+
+
+.four
+{
+    background-color: white;
+    width: 14.28%;
+
+}
+.five
+{
+    background-color: rgb(3, 2, 10);
+    width: 14.28%;
+    
+}
+.six{
+    background-color: white;
+    width: 14.28%;
+   
+}
+.seven
+{
+    background-color: black;
+    width: 14.28%;
+ 
+}
+.one1{
+    background-color: white;
+    width: 14.28%;
+    
+   
+}
+.two2
+{
+    background-color: black;
+    width: 14.28%;
+    }
+.three3
+    {
+        background-color: white;
+    width: 14.28%;
+   
+    }
+
+
+.four4
+{
+    background-color: black;
+    width: 14.28%;
+    
+}
+.five5
+{
+    background-color: white;
+    width: 14.28%;
+    
+}
+.six6{
+    background-color: black;
+    width: 14.28%;
+   
+}
+.seven7
+{
+    background-color: white;
+    width: 14.28%;
+  
+}
